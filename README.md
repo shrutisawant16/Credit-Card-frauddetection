@@ -12,14 +12,11 @@
 An end-to-end Machine Learning Project carried out by Group 3 Zummit Africa AI/ML Team to detect fraudulent credit card transactions. Built with FastAPI, Streamlit and Docker.
 
 ## Contributors
-- **NNEJI IFEANYI DANIEL**
-- **IFEZUE TOONNAEMEKA HILARY**
-- **SOMTOCHUKWU OGUCHIENTI**
-- **KACHUKWU OKOH**
+- **SHRUTI SAWANT**
+
 
 You can check out the article on Medium describing in detail how this project was carried out.
 
-https://medium.com/mlearning-ai/credit-card-fraud-detection-2527ca04c3de
 
 ## Problem Statement
 Credit card fraud is an inclusive term for fraud committed using a payment card, such as a credit card or debit card. The purpose may be to obtain goods or services or to make payment to another account, which is controlled by a criminal.
@@ -27,8 +24,6 @@ Credit card fraud is an inclusive term for fraud committed using a payment card,
 **This Streamlit App utilizes a Machine Learning model served as an API with FastAPI framework in order to detect fraudulent credit card transactions  based on the following criteria: hours, type of transaction, amount, balance before and after transaction etc.**
 
 The machine learning model used for this web application was deployed as an API using the FastAPI framework and then accessed through a frontend interface with Streamlit.
-
-The App can be viewed [through this link](https://share.streamlit.io/nneji123/credit-card-fraud-detection/main)
 
 
 The API and its documentation can be viewed [here](https://credit-fraud-ml-api.herokuapp.com/docs) or [here.](https://credit-fraud-ml-api.herokuapp.com/redoc)
